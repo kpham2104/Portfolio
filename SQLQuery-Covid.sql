@@ -1,5 +1,5 @@
-Working on Covid 19 Data From Feb2020 to Aug2021 
-
+--Showing Covid 19 Data From Jan 22, 2020 to Sept 20, 2021
+--Link to Dataset: https://ourworldindata.org/covid-deaths
 
 Select *
 From PortfolioProject..CovidDeaths
@@ -9,7 +9,7 @@ Where continent is not null
 --Seect data that we are going to use
 Select Location, date, total_cases, new_cases, total_deaths, population
 From PortfolioProject..CovidDeaths
-Where continent is not null and location = 'United states'
+Where continent is not null
 order by location, date
 
 
