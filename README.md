@@ -11,3 +11,6 @@ to gain some hands-on experience by completing a required data analysis case stu
 showcase the skills learned throughout this course. For that case study, I used SQL for data
 preparation and cleansing, and Tableau for data analysis and storytelling including preparing
 visualization for presentation.
+
+Below is the URL link of my Tableau Public Portfolio
+https://public.tableau.com/app/profile/khanh.pham4251/viz/CovidDashboard_16327114390100/Dashboard1
