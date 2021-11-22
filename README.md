@@ -13,4 +13,4 @@ preparation and cleansing, and Tableau for data analysis and storytelling includ
 visualization for presentation.
 
 Below is the URL link of my Tableau Public Portfolio.
-https://public.tableau.com/app/profile/khanh.pham4251/viz/CovidDashboard_16327114390100/Dashboard1
+https://public.tableau.com/app/profile/khanh.pham4251
